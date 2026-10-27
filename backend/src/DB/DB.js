@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-mongoose.connect('mongodb+srv://MBH:Avatarpower2012@app.hsv9n.mongodb.net/?retryWrites=true&w=majority',{
+mongoose.connect('',{
     useNewUrlParser : true
 })
 //'mongodb+srv://MBH:Avatarpower2012@app.hsv9n.mongodb.net/?retryWrites=true&w=majority'
